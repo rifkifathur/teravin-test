@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `Info`
 
-React Js version : 18.1.0
+React Js version : 18.1.0\
 Node JS version : 16.13.2
 
 
